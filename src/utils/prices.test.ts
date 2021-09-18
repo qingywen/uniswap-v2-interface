@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@uniswap/sdk'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'hwj-bsctest-swap-sdk'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

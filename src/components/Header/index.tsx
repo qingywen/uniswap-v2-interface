@@ -1,14 +1,14 @@
-import { ChainId } from '@uniswap/sdk'
+import { ChainId } from 'hwj-bsctest-swap-sdk'
 import React from 'react'
 import { isMobile } from 'react-device-detect'
 import { Text } from 'rebass'
 
 import styled from 'styled-components'
 
-import Logo from '../../assets/svg/logo.svg'
-import LogoDark from '../../assets/svg/logo_white.svg'
-import Wordmark from '../../assets/svg/wordmark.svg'
-import WordmarkDark from '../../assets/svg/wordmark_white.svg'
+import Logo from '../../assets/svg/hwj_logo.svg'
+import LogoDark from '../../assets/svg/hwj_logo_dark.svg'
+import Wordmark from '../../assets/svg/hwj_swap.svg'
+import WordmarkDark from '../../assets/svg/hwj_swap_dark.svg'
 import { useActiveWeb3React } from '../../hooks'
 import { useDarkModeManager } from '../../state/user/hooks'
 import { useETHBalances } from '../../state/wallet/hooks'
@@ -131,7 +131,8 @@ const NETWORK_LABELS: { [chainId in ChainId]: string | null } = {
   [ChainId.RINKEBY]: 'Rinkeby',
   [ChainId.ROPSTEN]: 'Ropsten',
   [ChainId.GÖRLI]: 'Görli',
-  [ChainId.KOVAN]: 'Kovan'
+  [ChainId.KOVAN]: 'Kovan',
+  [ChainId.BSC_TESTNET]: 'Bsc_testnet',
 }
 
 export default function Header() {
