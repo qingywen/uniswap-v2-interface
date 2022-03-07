@@ -1,9 +1,9 @@
-import { ChainId, JSBI, Percent, Token, WETH } from 'hwj-bsctest-swap-sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from 'skylar-bsctest-swap-sdk'
 import { AbstractConnector } from '@web3-react/abstract-connector'
 
 import { fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'
 
-export const ROUTER_ADDRESS = '0xd2d6ba6554B2E54fF4f05D8D3eEff673A652132D'
+export const ROUTER_ADDRESS = '0x1c33C15629928D954C89194D47eB37507Eb80497'
 
 // a list of tokens by chain
 type ChainTokenList = {

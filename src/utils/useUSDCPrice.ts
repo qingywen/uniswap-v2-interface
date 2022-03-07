@@ -1,4 +1,4 @@
-import { ChainId, Currency, currencyEquals, JSBI, Price, WETH } from 'hwj-bsctest-swap-sdk'
+import { ChainId, Currency, currencyEquals, JSBI, Price, WETH } from 'skylar-bsctest-swap-sdk'
 import { useMemo } from 'react'
 import { USDC } from '../constants'
 import { PairState, usePairs } from '../data/Reserves'

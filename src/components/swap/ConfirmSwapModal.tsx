@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from 'hwj-bsctest-swap-sdk'
+import { currencyEquals, Trade } from 'skylar-bsctest-swap-sdk'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

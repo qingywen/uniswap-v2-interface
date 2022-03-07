@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from 'hwj-bsctest-swap-sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from 'skylar-bsctest-swap-sdk'
 import React from 'react'
 import { Text } from 'rebass'
 import { ButtonPrimary } from '../../components/Button'

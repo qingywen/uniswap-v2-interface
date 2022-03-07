@@ -1,4 +1,4 @@
-import { ChainId } from 'hwj-bsctest-swap-sdk'
+import { ChainId } from 'skylar-bsctest-swap-sdk'
 import React, { useContext } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import Modal from '../Modal'

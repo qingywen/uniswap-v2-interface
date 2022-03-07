@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from 'hwj-bsctest-swap-sdk'
+import { Token, TokenAmount } from 'skylar-bsctest-swap-sdk'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 

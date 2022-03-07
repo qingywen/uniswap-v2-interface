@@ -14,7 +14,7 @@ import {
   Trade,
   TradeType,
   WETH
-} from 'hwj-bsctest-swap-sdk'
+} from 'skylar-bsctest-swap-sdk'
 import { useMemo } from 'react'
 import { useActiveWeb3React } from '../hooks'
 import { useAllTokens } from '../hooks/Tokens'

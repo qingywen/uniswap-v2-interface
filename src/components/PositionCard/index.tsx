@@ -1,4 +1,4 @@
-import { JSBI, Pair, Percent } from 'hwj-bsctest-swap-sdk'
+import { JSBI, Pair, Percent } from 'skylar-bsctest-swap-sdk'
 import { darken } from 'polished'
 import React, { useState } from 'react'
 import { ChevronDown, ChevronUp } from 'react-feather'
