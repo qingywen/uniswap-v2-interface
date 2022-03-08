@@ -8243,19 +8243,6 @@ human-signals@^2.1.0:
   resolved "https://registry.npmjs.org/human-signals/-/human-signals-2.1.0.tgz"
   integrity sha512-B4FFZ6q/T2jhhksgkbEW3HBvWIfDW85snkQgawt07S7J5QXTk6BkNV+0yAeZrM5QpMAdYlocGoljn0sJ/WQkFw==
 
-hwj-bsctest-swap-sdk@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/hwj-bsctest-swap-sdk/-/hwj-bsctest-swap-sdk-1.0.0.tgz"
-  integrity sha512-vHOZIFhZYSdjm0kqDlbYkxJa7M7V9VSZb6aQJa4WNaS9FFGO/FW/hJ29Wtf4ERXvBTuXCA/TMKZxdI45pnLfVQ==
-  dependencies:
-    "@uniswap/v2-core" "^1.0.0"
-    big.js "^5.2.2"
-    decimal.js-light "^2.5.0"
-    jsbi "^3.1.1"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
-    toformat "^2.0.0"
-
 i18next-browser-languagedetector@^3.0.1:
   version "3.1.1"
   resolved "https://registry.npmjs.org/i18next-browser-languagedetector/-/i18next-browser-languagedetector-3.1.1.tgz"
