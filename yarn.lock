@@ -13664,10 +13664,10 @@ sisteransi@^1.0.5:
   resolved "https://registry.npmjs.org/sisteransi/-/sisteransi-1.0.5.tgz"
   integrity sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg==
 
-skylar-bsctest-swap-sdk@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmmirror.com/skylar-bsctest-swap-sdk/-/skylar-bsctest-swap-sdk-1.0.1.tgz#0005aa3206ba782d469d535d86b032dd8fc9e7af"
-  integrity sha512-0AIjRJIHthR0UsaQIXR8Hpb179PufvFxmjgrbd9dO3Yl/0VVoten5JcFnn4VR/GJNtGg1Mwe05ldirjOX4SzaQ==
+skylar-bsctest-swap-sdk@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/skylar-bsctest-swap-sdk/-/skylar-bsctest-swap-sdk-1.0.2.tgz#9f4a7fd6f7b0a8f3205ad02b201ad6da6be31eb7"
+  integrity sha512-AkMm1yuQeNQwjmajIylE1TwdVN/y6hTNH67C1q8qlCh/usQzWh06yCrEN3/3DcIDm9B6klgoQU6DWwoZvQ1+2w==
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
